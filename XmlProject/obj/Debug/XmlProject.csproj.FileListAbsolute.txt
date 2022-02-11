@@ -1,0 +1,9 @@
+E:\PD and Bi intake 42\Technology Courses\3-XML\XML Project\XML Project\XmlProject\obj\Debug\XmlProject.csprojAssemblyReference.cache
+E:\PD and Bi intake 42\Technology Courses\3-XML\XML Project\XML Project\XmlProject\obj\Debug\XmlProject.Properties.Resources.resources
+E:\PD and Bi intake 42\Technology Courses\3-XML\XML Project\XML Project\XmlProject\obj\Debug\XmlProject.csproj.GenerateResource.cache
+E:\PD and Bi intake 42\Technology Courses\3-XML\XML Project\XML Project\XmlProject\obj\Debug\XmlProject.csproj.CoreCompileInputs.cache
+E:\PD and Bi intake 42\Technology Courses\3-XML\XML Project\XML Project\XmlProject\bin\Debug\XmlProject.exe.config
+E:\PD and Bi intake 42\Technology Courses\3-XML\XML Project\XML Project\XmlProject\bin\Debug\XmlProject.exe
+E:\PD and Bi intake 42\Technology Courses\3-XML\XML Project\XML Project\XmlProject\bin\Debug\XmlProject.pdb
+E:\PD and Bi intake 42\Technology Courses\3-XML\XML Project\XML Project\XmlProject\obj\Debug\XmlProject.exe
+E:\PD and Bi intake 42\Technology Courses\3-XML\XML Project\XML Project\XmlProject\obj\Debug\XmlProject.pdb

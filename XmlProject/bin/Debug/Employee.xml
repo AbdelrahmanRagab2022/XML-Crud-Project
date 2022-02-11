@@ -1,0 +1,67 @@
+<?xml-stylesheet type="text/css" href="Employee.css"?>
+<employees>
+  <emp>
+    <name>Abdelrahman Ragab</name>
+    <phones>
+      <phone type="mobile">01114758723</phone>
+      <phone type="home">5055335</phone>
+    </phones>
+    <addresses>
+      <street>Othman</street>
+      <Building>GRT</Building>
+      <number>25</number>
+      <region>Seyouf</region>
+      <city>Alex</city>
+      <country>Egypt</country>
+    </addresses>
+    <email>abdelrahman.ragab425@gmail.com</email>
+  </emp>
+  <emp>
+    <name>Waleed Ahmed</name>
+    <phones>
+      <phone type="mobile">011144444</phone>
+      <phone type="home">5055335</phone>
+    </phones>
+    <addresses>
+      <street>Gesh</street>
+      <Building>Salam</Building>
+      <number>23</number>
+      <region>Gleem</region>
+      <city>Alex</city>
+      <country>Egypt</country>
+    </addresses>
+    <email>Waleed@gmail.com</email>
+  </emp>
+  <emp>
+    <name>Ali Ahmed</name>
+    <phones>
+      <phone type="mobile">01111111111</phone>
+      <phone type="home">5055335</phone>
+    </phones>
+    <addresses>
+      <street>Fat7</street>
+      <Building>lutas</Building>
+      <number>2</number>
+      <region>Abukir</region>
+      <city>Alex</city>
+      <country>Egypt</country>
+    </addresses>
+    <email>Ali@gmail.com</email>
+  </emp>
+  <emp>
+    <name>Sherif Ashraf</name>
+    <phones>
+      <phone type="mobile">01244455236</phone>
+      <phone type="home">5055335</phone>
+    </phones>
+    <addresses>
+      <street>spring</street>
+      <Building>ess</Building>
+      <number>25</number>
+      <region>Mandare</region>
+      <city>Alex</city>
+      <country>Egypt</country>
+    </addresses>
+    <email>Sherif.Ashraf423@gmail.com</email>
+  </emp>
+</employees>
